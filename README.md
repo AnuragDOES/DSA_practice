@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AnuragDOES/DSA_practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AnuragDOES/DSA_practice/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/AnuragDOES/DSA_practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AnuragDOES/DSA_practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AnuragDOES/DSA_practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnuragDOES/DSA_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnuragDOES/DSA_practice/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AnuragDOES/DSA_practice/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/AnuragDOES/DSA_practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AnuragDOES/DSA_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnuragDOES/DSA_practice/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnuragDOES/DSA_practice/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnuragDOES/DSA_practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
