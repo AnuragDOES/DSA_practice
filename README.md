@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AnuragDOES/DSA_practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AnuragDOES/DSA_practice/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnuragDOES/DSA_practice/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AnuragDOES/DSA_practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
