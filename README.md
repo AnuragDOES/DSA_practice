@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AnuragDOES/DSA_practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AnuragDOES/DSA_practice/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/AnuragDOES/DSA_practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AnuragDOES/DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AnuragDOES/DSA_practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AnuragDOES/DSA_practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnuragDOES/DSA_practice/tree/master/0189-rotate-array) |
@@ -36,8 +37,13 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnuragDOES/DSA_practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AnuragDOES/DSA_practice/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnuragDOES/DSA_practice/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AnuragDOES/DSA_practice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
