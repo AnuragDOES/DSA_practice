@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragDOES/DSA_practice/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/AnuragDOES/DSA_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AnuragDOES/DSA_practice/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/AnuragDOES/DSA_practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnuragDOES/DSA_practice/tree/master/0074-search-a-2d-matrix) |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AnuragDOES/DSA_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AnuragDOES/DSA_practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AnuragDOES/DSA_practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AnuragDOES/DSA_practice/tree/master/0189-rotate-array) |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AnuragDOES/DSA_practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AnuragDOES/DSA_practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AnuragDOES/DSA_practice/tree/master/0169-majority-element) |
 ## Binary Search
